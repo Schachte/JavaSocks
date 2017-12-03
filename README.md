@@ -2,5 +2,4 @@
 
 ## Socket connections in Java/JFX.
 
-<hr>
 <img src="https://raw.githubusercontent.com/Schachte/JavaSocks/master/gif.gif" width="825">
